@@ -9,7 +9,7 @@ projectsList = [
         description:
           'Get acquainted with knowledge about medicinal plants with help of this blogging website',
         image:
-          '/assets/aayurgyan.png',
+          '/abhi2359.github.io/assets/aayurgyan.png',
         url: 'https://www.youtube.com/watch?v=EwktaLOXMz4',
         github: 'https://github.com/Abhi2359/Aayurgyan',
         badges: [
@@ -23,7 +23,7 @@ projectsList = [
         description:
           'A mobile native application which is helpful in finding jobs based on your interest and you can apply by clicking the jobs description ',
         image:
-          '/assets/jobsearch.jpeg',
+          '/abhi2359.github.io/assets/jobsearch.jpeg',
         url: 'https://expo.dev/@abhikc/react_native?serviceType=classic&distribution=expo-go',
         github: 'https://github.com/Abhi2359/React_native_Job_search',
         badges: [
@@ -42,11 +42,11 @@ projectsList = [
         description:
           'An application with the help of which you can track the price of various cryptocurrency ',
         image:
-          '/assets/cryptotracker.png',
+          '/abhi2359.github.io/assets/cryptotracker.png',
         url: 'https://abhi2359.github.io/Crypto-Tracker/',
         github: 'https://github.com/Abhi2359/Crypto-Tracker',
         badges: [
-          { name: 'React', color: 'bg-blue-400' },
+          { name: 'React', color: 'bg-blue-500' },
          
           { name: 'Tailwind', color: 'bg-sky-400' },
         ],
@@ -56,11 +56,11 @@ projectsList = [
         description:
           'An Application which shows current weather of various cities across the world  and its background is subject to weather change', 
         image:
-          'assets/weatherapp.png',
+          '/abhi2359.github.io/assets/weatherapp.png',
         url: 'https://abhi2359.github.io/Weather-app/',
         github: 'https://github.com/Abhi2359/Weather-app',
         badges: [
-          { name: 'React', color: 'bg-blue-400' },
+          { name: 'React', color: 'bg-blue-500' },
         
           { name: 'Tailwind', color: 'bg-sky-400' },
         ],
@@ -70,7 +70,7 @@ projectsList = [
         description:
           'A simple and minimal clone of IMDB movie rating app that shows rating and descriptions of different movies based on their popularity',
         image:
-          '/assets/imdb.png',
+          '/abhi2359.github.io/assets/imdb.png',
         url: 'https://imdbclone-murex.vercel.app/',
         github: 'https://github.com/Abhi2359/imdbclone',
         badges: [
@@ -89,7 +89,7 @@ projectsList = [
         description:
           'A simple web UI component for Ecommerce(Sneakers) applications which is dynamic in which you can click to view different samples of products and can add them to cart',
         image:
-          '/assets/challenge2.png',
+          '/abhi2359.github.io/assets/challenge2.png',
         url: 'https://frontendchallenge-2-ce2clbfnh-abhi2359.vercel.app/?vercelToolbarCode=AVLOaCrXDrETzJU',
         github: 'https://github.com/Abhi2359/frontendchallenge-2',
         badges: [
@@ -102,7 +102,7 @@ projectsList = [
         description:
           'A Pomodoro Timer in which you can set different break time(Long,short and pomodoro) depending upon your need.',
         image:
-          '/assets/challenge3.png',
+          '/abhi2359.github.io/assets/challenge3.png',
         url: 'https://frontendchallenge-3.vercel.app/',
         github: 'https://github.com/Abhi2359/frontendchallenge-3',
         badges: [
@@ -116,7 +116,7 @@ projectsList = [
         description:
           'An interactive Page having synchronized changes occuring in  form and card at the same time',
         image:
-          '/assets/challenge1.png',
+          '/abhi2359.github.io/assets/challenge1.png',
         
         github: 'https://github.com/Abhi2359/frontendchallenge-1',
         badges: [
@@ -129,7 +129,7 @@ projectsList = [
         description:
           'A Vowel Counter can be used to count number of vowels till the written words',
         image:
-          '/assets/Vowelcounter.png',
+          '/abhi2359.github.io/assets/Vowelcounter.png',
         
           url: 'http://counterofvowels.000webhostapp.com/',
         github: 'https://github.com/Abhi2359/Vowel-Counter',
